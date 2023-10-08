@@ -1,0 +1,20 @@
+shade
+shadow
+reflection
+people
+part
+edge
+a
+the
+background
+room
+bathroom
+kitchen
+bedroom
+object
+item
+base
+back
+living room
+corner
+top
